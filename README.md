@@ -1,35 +1,50 @@
-Hi there, I'm Mandar Dhamale 👋
-Software Engineer | MS in Computer Science @ University of South Florida
-I am a Software Engineer and Research Assistant focused on building scalable backend systems and developing advanced deep learning solutions. My experience ranges from engineering microservices for global platforms to architecting multi-modal machine learning systems for medical diagnostics.
+Mandar Dhamale 👋
+Software Engineer | MS in Computer Science @ USF 
 
-🛠️ Technical Skills
-Languages
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,sql" /> </p>
+🛠️ Technical Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,sql,spring,react,tensorflow,pytorch,aws,docker,kubernetes,kafka,mysql,mongodb,linux,git" /> </p>
 
-Frameworks & Libraries
+🎓 Current Focus (MS CS @ USF)
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=spring,react,tensorflow,pytorch,hibernate" /> </p>
+CUDA Programming: High-performance parallel computing.
 
-Cloud, Databases & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,mysql,mongodb,linux,git,postman" /> </p>
+Distributed Systems: Scalable architecture and reliability.
 
-🚀 Featured Projects
-PhotoSync: A self-hosted full-stack photo backup solution with a Spring Boot server and Android client (Kotlin/Coroutines).
 
-Brain Tumor Detection: A CNN-based deep learning model achieving 97.83% accuracy in classifying MRI scans, served via a Flask web app.
+Machine Learning: Deep learning and predictive modeling.
 
-PhotoVault API: A secure RESTful API featuring stateless JWT authentication and role-based access control.
 
-Loan Approval Risk: A predictive ML model evaluating risk profiles using K-Means clustering and ensemble learning (82% accuracy).
+Cloud Computing: Infrastructure and deployment.
 
-📈 Professional Highlights
-Research Assistant @ USF: Architecting multi-modal deep learning systems using MRI and EHR data to predict medical abnormalities.
+🚀 Key Projects
 
-Software Development Engineer @ Ivalua: Scaled backend microservices to support 100,000+ daily transactions and reduced supplier onboarding time by over 90%.
+PhotoSync: Full-stack photo backup solution using Spring Boot and Android (Kotlin).
 
-Optimization Expert: Improved API execution times by 16% and slashed front-end page load times by 1.2s through payload optimization and caching.
 
-📫 Let's Connect!
-<p align="left"> <a href="https://linkedin.com/in/mandar-dhamale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandar-dhamale" height="30" width="40" /></a> <a href="mailto:mandardhamale@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mandardhamale" height="30" width="40" /></a> </p>
+Brain Tumor Detection: CNN model (97.83% accuracy) for MRI scan classification.
+
+
+PhotoVault API: Secure RESTful API featuring JWT authentication and RBAC.
+
+
+
+Loan Risk Analysis: Predictive model using K-Means and ensemble learning.
+
+
+📈 Experience & Impact
+
+Research Assistant (USF): Architecting multi-modal ML systems for medical diagnostic tasks.
+
+
+
+Software Engineer (Ivalua): Engineered Spring Boot microservices for 100k+ daily transactions.
+
+
+
+Performance: Reduced supplier onboarding from 2 days to <4 hours and optimized SQL for 16% faster execution.
+
+
+📫 Connect with Me
+<p align="left"> <a href="https://www.google.com/search?q=https://linkedin.com/in/mandar-dhamale"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a> <a href="mailto:mandardhamale@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
