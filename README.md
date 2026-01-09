@@ -5,45 +5,50 @@ Software Engineer | MS in Computer Science @ USF
 🛠️ Technical Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,sql,spring,react,tensorflow,pytorch,aws,docker,kubernetes,kafka,mysql,mongodb,linux,git" /> </p>
 
-🎓 Current Focus (MS CS @ USF)
 
-CUDA Programming: High-performance parallel computing.
-
-
-Distributed Systems: Scalable architecture and reliability.
+Languages: Java, Python, JavaScript, C#, C/C++, CUDA, SQL 
 
 
-Machine Learning: Deep learning and predictive modeling.
+Frameworks: Spring Boot, Spring Security, Hibernate, React.js, TensorFlow, PyTorch, Keras 
 
 
-Cloud Computing: Infrastructure and deployment.
+DevOps & Cloud: AWS (EC2), Docker, Kubernetes, Kafka, Linux, CI/CD 
 
-🚀 Key Projects
+🎓 Education
 
-PhotoSync: Full-stack photo backup solution using Spring Boot and Android (Kotlin).
-
-
-Brain Tumor Detection: CNN model (97.83% accuracy) for MRI scan classification.
+MS in Computer Science, University of South Florida (GPA: 3.7) 
 
 
-PhotoVault API: Secure RESTful API featuring JWT authentication and RBAC.
+Coursework: CUDA Programming, Machine Learning, Distributed Systems, Cloud Computing 
+
+
+BE in Computer Science, Savitribai Phule Pune University (GPA: 3.5) 
+
+💼 Experience
+Research Assistant | University of South Florida 
+
+Architecting multi-modal ML systems using MRI and EHR data for diagnostic tasks.
+
+Improved model accuracy by 15% through advanced augmentation and tuning.
+
+Software Development Engineer | Ivalua Inc. 
+
+Scaled backend microservices to process 100,000+ daily transactions using Spring Boot.
+
+Automated supplier onboarding, reducing processing time from 2 days to under 4 hours.
+
+Optimized SQL queries to reduce execution time by 16%.
+
+🚀 Projects
+
+PhotoSync: Self-hosted photo backup solution with Spring Boot and Android (WorkManager).
 
 
 
-Loan Risk Analysis: Predictive model using K-Means and ensemble learning.
+Brain Tumor Detection: CNN-based solution achieving 97.83% classification accuracy.
 
 
-📈 Experience & Impact
-
-Research Assistant (USF): Architecting multi-modal ML systems for medical diagnostic tasks.
-
-
-
-Software Engineer (Ivalua): Engineered Spring Boot microservices for 100k+ daily transactions.
-
-
-
-Performance: Reduced supplier onboarding from 2 days to <4 hours and optimized SQL for 16% faster execution.
+PhotoVault API: Secure RESTful API with stateless JWT authentication and RBAC.
 
 
 📫 Connect with Me
