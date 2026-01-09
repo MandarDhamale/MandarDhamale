@@ -1,51 +1,35 @@
-# Hi there, I'm Mandar Dhamale 👋
-
-### Software Engineer | MS in Computer Science @ USF
-
+Hi there, I'm Mandar Dhamale 👋
+Software Engineer | MS in Computer Science @ University of South Florida
 I am a Software Engineer and Research Assistant focused on building scalable backend systems and developing advanced deep learning solutions. My experience ranges from engineering microservices for global platforms to architecting multi-modal machine learning systems for medical diagnostics.
 
----
+🛠️ Technical Skills
+Languages
 
-### 🛠️ Technical Skills
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,sql" /> </p>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | [cite_start]Java, Python, JavaScript, C#, C/C++, CUDA, SQL [cite: 43] |
-| **Frameworks** | [cite_start]Spring Boot, Spring Security, Hibernate, React.js, TensorFlow, PyTorch, Keras [cite: 44] |
-| **Data Science** | [cite_start]Pandas, NumPy, scikit-learn, OpenCV [cite: 35, 38, 44] |
-| **Databases** | [cite_start]MySQL, Microsoft SQL, H2, MongoDB, Elasticsearch [cite: 45] |
-| **Cloud & DevOps** | [cite_start]AWS (EC2), Docker, Kubernetes, Kafka, Linux, Git, CI/CD [cite: 46] |
+Frameworks & Libraries
 
----
+<p align="left"> <img src="https://skillicons.dev/icons?i=spring,react,tensorflow,pytorch,hibernate" /> </p>
 
-### 🚀 Featured Projects
+Cloud, Databases & Tools
 
-* [cite_start]**PhotoSync**: A self-hosted full-stack photo backup solution with a Spring Boot server and Android client (Kotlin/Coroutines)[cite: 29, 30].
-* [cite_start]**Brain Tumor Detection**: A CNN-based deep learning model achieving 97.83% accuracy in classifying MRI scans, served via a Flask web app[cite: 35, 36, 37].
-* [cite_start]**PhotoVault API**: A secure RESTful API featuring stateless JWT authentication and role-based access control[cite: 32, 34].
-* [cite_start]**Loan Approval Risk**: A predictive ML model evaluating risk profiles using K-Means clustering and ensemble learning (82% accuracy)[cite: 38, 40, 41].
+<p align="left"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,mysql,mongodb,linux,git,postman" /> </p>
 
----
+🚀 Featured Projects
+PhotoSync: A self-hosted full-stack photo backup solution with a Spring Boot server and Android client (Kotlin/Coroutines).
 
-### 📈 Professional Highlights
+Brain Tumor Detection: A CNN-based deep learning model achieving 97.83% accuracy in classifying MRI scans, served via a Flask web app.
 
-* [cite_start]**Research Assistant @ USF**: Architecting multi-modal deep learning systems using MRI and EHR data to predict medical abnormalities[cite: 15, 17].
-* [cite_start]**Software Development Engineer @ Ivalua**: Scaled backend microservices to support 100,000+ daily transactions and reduced supplier onboarding time by over 90%[cite: 21, 23, 24].
-* [cite_start]**Optimization Expert**: Improved API execution times by 16% and slashed front-end page load times by 1.2s through payload optimization and caching[cite: 25, 26].
+PhotoVault API: A secure RESTful API featuring stateless JWT authentication and role-based access control.
 
----
+Loan Approval Risk: A predictive ML model evaluating risk profiles using K-Means clustering and ensemble learning (82% accuracy).
 
-### 📫 Let's Connect!
+📈 Professional Highlights
+Research Assistant @ USF: Architecting multi-modal deep learning systems using MRI and EHR data to predict medical abnormalities.
 
-* [cite_start]**LinkedIn**: [linkedin.com/in/mandar-dhamale](https://linkedin.com/in/mandar-dhamale) [cite: 2]
-* [cite_start]**Email**: [mandardhamale@gmail.com](mailto:mandardhamale@gmail.com) [cite: 2]
-* [cite_start]**Portfolio**: Tampa, Florida [cite: 16]
+Software Development Engineer @ Ivalua: Scaled backend microservices to support 100,000+ daily transactions and reduced supplier onboarding time by over 90%.
 
----
+Optimization Expert: Improved API execution times by 16% and slashed front-end page load times by 1.2s through payload optimization and caching.
 
-### 📊 GitHub Stats
-
-![Mandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-*Note: Replace `YOUR_GITHUB_USERNAME` in the links above with your actual GitHub username to activate the stats cards.*
+📫 Let's Connect!
+<p align="left"> <a href="https://linkedin.com/in/mandar-dhamale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandar-dhamale" height="30" width="40" /></a> <a href="mailto:mandardhamale@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mandardhamale" height="30" width="40" /></a> </p>
