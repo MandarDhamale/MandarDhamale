@@ -17,9 +17,9 @@
 ---
 
 ### ℹ️ About Me
-* 🔭 **Research Assistant** at University of South Florida (Focus: ML/DL and LLMs)[cite: 14].
-* 💼 **Ex-SDE at Ivalua Inc.** (3 Years) - Scaled backend systems for 100k+ daily transactions[cite: 21, 22].
-* 🎓 **MS in Computer Science** (2025-2027) - Studying CUDA, ML, Distributed Systems, OS, CN and Algorithms[cite: 5, 7, 8].
+* 🔭 **Research Assistant** at University of South Florida (Focus: ML/DL and LLMs).
+* 💼 **Ex-SDE at Ivalua Inc.** (3 Years) - Scaled backend systems for 100k+ daily transactions.
+* 🎓 **MS in Computer Science** (2025-2027) - Studying CUDA, ML, Distributed Systems, OS, CN and Algorithms.
 
 ---
 
