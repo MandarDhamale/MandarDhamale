@@ -13,10 +13,10 @@
 
 ---
 
-### 🚀 About Me
-* 🔭 **Research Assistant** at University of South Florida (Focus: Multi-modal Deep Learning).
+### ℹ️ About Me
+* 🔭 **Research Assistant** at University of South Florida (Focus: ML/DL and LLMs).
 * 💼 **Ex-SDE at Ivalua Inc.** (3 Years) - Scaled backend systems for 100k+ daily transactions.
-* 🎓 **MS in Computer Science** (2025-2027) - Studying CUDA, ML, and Distributed Systems.
+* 🎓 **MS in Computer Science** (2025-2027) - Studying CUDA, ML, Distributed Systems, OS, CN and Algorithms.
 
 ---
 
