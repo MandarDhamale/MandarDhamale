@@ -1,55 +1,30 @@
-Mandar Dhamale 👋
-Software Engineer | MS in Computer Science @ USF 
+<div align="center">
+  <h1>Hi, I'm Mandar Dhamale 👋</h1>
+  <h3>Software Engineer | MS CS Student @ USF</h3>
+  <p>
+    <a href="https://linkedin.com/in/mandar-dhamale">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mandardhamale@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
+---
 
-🛠️ Technical Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,sql,spring,react,tensorflow,pytorch,aws,docker,kubernetes,kafka,mysql,mongodb,linux,git" /> </p>
+### 🚀 About Me
+* 🔭 **Research Assistant** at University of South Florida (Focus: Multi-modal Deep Learning).
+* 💼 **Ex-SDE at Ivalua Inc.** (3 Years) - Scaled backend systems for 100k+ daily transactions.
+* 🎓 **MS in Computer Science** (2025-2027) - Studying CUDA, ML, and Distributed Systems.
 
+---
 
-Languages: Java, Python, JavaScript, C#, C/C++, CUDA, SQL 
+### 🛠 Tech Stack
+<div align="center">
 
-
-Frameworks: Spring Boot, Spring Security, Hibernate, React.js, TensorFlow, PyTorch, Keras 
-
-
-DevOps & Cloud: AWS (EC2), Docker, Kubernetes, Kafka, Linux, CI/CD 
-
-🎓 Education
-
-MS in Computer Science, University of South Florida (GPA: 3.7) 
-
-
-Coursework: CUDA Programming, Machine Learning, Distributed Systems, Cloud Computing 
-
-
-BE in Computer Science, Savitribai Phule Pune University (GPA: 3.5) 
-
-💼 Experience
-Research Assistant | University of South Florida 
-
-Architecting multi-modal ML systems using MRI and EHR data for diagnostic tasks.
-
-Improved model accuracy by 15% through advanced augmentation and tuning.
-
-Software Development Engineer | Ivalua Inc. 
-
-Scaled backend microservices to process 100,000+ daily transactions using Spring Boot.
-
-Automated supplier onboarding, reducing processing time from 2 days to under 4 hours.
-
-Optimized SQL queries to reduce execution time by 16%.
-
-🚀 Projects
-
-PhotoSync: Self-hosted photo backup solution with Spring Boot and Android (WorkManager).
-
-
-
-Brain Tumor Detection: CNN-based solution achieving 97.83% classification accuracy.
-
-
-PhotoVault API: Secure RESTful API with stateless JWT authentication and RBAC.
-
-
-📫 Connect with Me
-<p align="left"> <a href="https://www.google.com/search?q=https://linkedin.com/in/mandar-dhamale"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a> <a href="mailto:mandardhamale@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+| Languages | Frameworks & Libraries | Cloud & Tools |
+| :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) | ![Linux](https://img
