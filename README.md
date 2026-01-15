@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Mandar Dhamale 👋</h1>
+  <h1>Hi, I'm Mandar Dhamale</h1>
   <h3>Software Engineer | MS Computer Science @ USF</h3>
   <p>
     <a href="https://linkedin.com/in/mandar-dhamale">
