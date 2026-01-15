@@ -34,5 +34,5 @@
 
 ---
 <div align="center">
-  <p><i>Lets connect and build something scalable!</i></p>
+  <p><i>Lets connect and build something!</i></p>
 </div>
