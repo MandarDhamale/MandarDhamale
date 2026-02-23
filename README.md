@@ -8,7 +8,7 @@
     <a href="mailto:mandardhamale@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://mandar-dhamale.netlify.app/">
+    <a href="https://mandardhamale.com/">
       <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
   </p>
